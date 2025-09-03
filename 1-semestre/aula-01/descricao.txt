@@ -1,0 +1,3 @@
+na primeira aula, aprendemos a fazer uma soma usando input e int.
+input é uma função
+int é uma classe
