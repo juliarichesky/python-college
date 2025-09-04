@@ -1,0 +1,6 @@
+- input imprime o que está escrito ali como comando.
+- input retorna pra você a informação.
+- input está armazenado na variável info.
+    info = input("")
+- lembrar do exemplo da memória ram.
+- variável não fica entre aspas "".
