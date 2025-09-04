@@ -4,3 +4,5 @@
     info = input("")
 - lembrar do exemplo da memória ram.
 - variável não fica entre aspas "".
+= é atribuição
+- variável precisa ter =
