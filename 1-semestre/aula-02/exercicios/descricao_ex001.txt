@@ -1,0 +1,11 @@
+soma = 0 não passou nenhuma compra
+quando passa a compra, pega o subtotal e soma com o número que está passando.
+é como se 0 fosse o valor que está no visor do seu supermercado, e quando vai adicionar o número que a string ta pedindo, você está somando 0 + esse número, ou seja:
+soma = soma + num
+
+aux - converte string para inteiro (str  -> int)
+
+- variável você coloca o nome que quiser, só não pode ter caractere especial nem letra maiúscula.
+- encontrar padrão de repetição é muito bom.
+- "clear" no terminal para limpar o terminal.
+- soma é um acumulador.

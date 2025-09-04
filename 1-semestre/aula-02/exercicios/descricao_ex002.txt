@@ -1,0 +1,8 @@
+area = variável numérica
+resultado guardando na variável area
+
+<string> + <string> = concatenação
+<num> + <num> = adição
+
+- em python só usamos numero + numero ou string + string, ambos precisam ser iguais.
+
