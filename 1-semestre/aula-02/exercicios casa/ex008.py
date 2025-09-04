@@ -1,0 +1,1 @@
+#dados o preço de um produto e um percentual de desconto, escreva um algoritmo que calcula e mostra o valor do desconto e o novo preço do produto dado o percentual. e se, ao invés de um desconto, fosse um aumento. O que muda no seu algoritmo?

@@ -1,0 +1,1 @@
+#escreva um algoritmo que calcula a área e o perímetro do círculo, use 3.141592 como valor de π.

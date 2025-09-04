@@ -1,0 +1,1 @@
+#escreva um algoritmo em python que recebe dois números inteiros e exibe: a soma desses dois números, a multiplicação, a divisão inteira e o resto da divisão inteira.

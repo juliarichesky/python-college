@@ -1,0 +1,1 @@
+#escreva um algoritmo em python que recebe seu nome e sobrenome, depois de ler as informações mostra na tela o sobrenome e depois o nome.

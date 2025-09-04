@@ -1,0 +1,1 @@
+#escreva um algoritmo que recebe um número x e y e imprime x^y. lembre-se que ∗∗ representa a potência entre dois números em python.
