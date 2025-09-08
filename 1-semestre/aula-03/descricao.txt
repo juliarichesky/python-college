@@ -1,0 +1,24 @@
+revisando conceitos
+
+= é sempre atribuição
+== é sempre igual
+umas das funções mais importantes é a do acumulador:
+soma = soma + num 
+
+bloco de instruções: conjunto de instruções em python
+begin / end 
+indentação é o alinhaento da esquerda a direita, que define um bloco de instruções.
+-> A INDENTAÇÃO É O QUE DEFINE UM BLOCO DE INTRUÇÕES NA LINGUAGEM PYTHON.
+
+if é uma pergunta, uma verificação.
+
+if <condicao>:
+    instrucao_1
+    instrucao_2
+    instrucao_3
+    instrucao_4
+    .......
+instrucao_fora_do_bloco
+.......
+
+fluxograma: desenho gráfico do seu código/programa.
