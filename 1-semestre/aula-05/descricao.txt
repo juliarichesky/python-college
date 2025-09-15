@@ -22,3 +22,27 @@ Signifcado     Python      Java
 não             not          !
 e               and         &&
 ou              or          ||
+
+match/case
+▶ o comportamento do comando match/case é parecido com o if
+▶ porém este comando somente é adequado quando a comparação é  uma igualdade e os dados são discretos:
+números inteiros, string
+▶ no exemplo 3.3 verificamos se o operador é igual as strings: +, -, * e /
+▶ quando há a igualdade é executado o código que está no bloco case do valor correspondente
+▶ o _ identifica a situação default, ou seja, quando não há igualdade com nenhum padrão
+
+op = ’+’
+match op :
+    case ’+’:
+        print (’operador +’)
+    case ’-’:
+        print (’operador -’)
+    case ’*’:
+        print (’operador *’)
+    case ’/’:
+        print (’operador /’)
+    case _:
+        print (’operador nao definido ’)
+
+▶ é mais restrito do que if/else 
+▶ usado quando a visualização fica mais elegante, puramente estético
