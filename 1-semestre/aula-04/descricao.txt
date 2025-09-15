@@ -22,3 +22,13 @@ Python:
 
  algumas vezes nos deparamos com problemas em que nem o if nem o if/else são suficientes.
 quando isso acontece, devemos encadear os comandos de decisão
+
+DRY: don't repeat yourself
+
+sobre o problema 3.3
+▶ f-strings são jeitos de criar strings, texto com valores de variaveis dentro do programa.
+▶ variável sempre entre chaves {}
+▶ print(f"Resposta: {resultado})
+▶ o {resultado} é substituédo pelo conteúdo da variável resultado
+▶ dentro dessas chaves, é possível definir a formatação do valor da variável
+▶ por exemplo, coloque :.2f entre as chaves e veja o que acontece
