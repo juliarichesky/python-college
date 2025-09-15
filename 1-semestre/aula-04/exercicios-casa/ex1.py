@@ -8,5 +8,3 @@ elif num==10:
     print(f"Seu número é igual a 10!")
 else:
     print(f"Seu número é menor que 10!")
-
-    
