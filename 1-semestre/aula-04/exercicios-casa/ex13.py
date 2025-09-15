@@ -1,0 +1,1 @@
+#13. desenvolva um algoritmo que informe se uma data é válida ou não. O algoritmo deverá ler 2 números inteiros, que representem o dia e o mês e informar se é um dia do mês válido. desconsidere os casos de ano bissexto, ou seja, fevereiro têm 28 dias.

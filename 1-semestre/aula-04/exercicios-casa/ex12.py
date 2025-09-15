@@ -1,0 +1,2 @@
+#12. faça um algoritmo que leia as médias semestrais obtidas por um aluno na disciplina de computational thinking, o número de aulas ministradas e o número de aulas assistidas por este aluno nesta disciplina. calcule e mostre a média final deste aluno e diga se ele foi aprovado ou reprovado ou está de exame. lembrando que a média do primeiro semestre tem peso 4 e a do segundo peso 6, além disso, o aluno tem que ter frequentado mais de 70% das aulas
+

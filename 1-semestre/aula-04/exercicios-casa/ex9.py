@@ -1,0 +1,1 @@
+#no exercício da calculadora, visto em sala de aula, temos um problema com a operação de divisão. sua tarefa será exibir uma mensagem informando que é impossível fazer uma divisão por 0. note que, essa mensagem só deverá aparecer quando o usuário quiser fazer tal operação.

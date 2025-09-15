@@ -1,0 +1,24 @@
+OPERADORES CONDICIONAIS
+
+significado         Python
+igual                 ==
+menor                 <
+maior                 >
+diferente !           =
+menor ou igual       <=
+maior ou igual        >
+
+expressões booleanas
+considere a = 5, b = 2 e c = 7; julgue as seguintes expressões em
+Python:
+▶ a < b
+▶ a − c >= b
+▶ 3 ∗ b < c
+▶ c − b! = a
+▶ c == a + b
+▶ c % b < a // b
+▶ b + c >= 2 ∗ a
+▶ b − c == a
+
+ algumas vezes nos deparamos com problemas em que nem o if nem o if/else são suficientes.
+quando isso acontece, devemos encadear os comandos de decisão
