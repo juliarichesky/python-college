@@ -1,0 +1,24 @@
+conectores lógicos
+
+▶ os conectores lógicos and e or
+
+exemplo:
+
+se pai empresta carro e faz sol, então vou à praia.
+▶ se as duas condiçoes forem verdadeiras individualmente, as duas coisas.
+
+se pai empresta carro ou faz sol, então vou à praia.
+▶ nesse exemplo você PODE ir a praia mesmo se nao tiver carro, e mesmo se nao tiver sol.
+
+
+por exemplo, considere a = 5, b = 7, c = 4 e d = 8, julgue verdadeiro ou falso as seguintes expressões:
+a) (a ≤ b) and (b < d) // TRUE and TRUE => TRUE
+b) (a = b) or (c ̸= b) // FALSE or TRUE => TRUE
+c) (d > a) and (c ≥ b) // TRUE and FALSE => FALSE
+d) (a ≤ b) or (c ≤ d) // TRUE or => TRUE
+e) ((b > c) or (c < a)) and (d ≤ b) (TRUE) and F => FALSE
+
+Signifcado     Python      Java
+não             not          !
+e               and         &&
+ou              or          ||
