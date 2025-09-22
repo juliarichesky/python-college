@@ -1,0 +1,56 @@
+considerações sobre a tabuada
+▶ na tabuada as instruções não são exatamente iguais como no problema anterior
+▶ mas é fácil modificar o algoritmo para deixá-lo exatamente com as mesmas instruções
+▶ para isso, basta inserirmos uma variável i inteira que irá assumir os valores de 1 a 10
+▶ entre cada instrução de impressão, devemos colocar uma instrução que aumentará a variável i em uma unidade
+▶ veja como fica a tabuada com as modificações
+
+
+comandos de repetição
+▶ para os problemas (exemplo 1 e 2) anteriores usamos instruções repetidas
+▶ conseguimos resolver pois a quantidade de comandos repetidos é pequena
+▶ porém para alguns problemas é necessário outra estrutura para nossos algoritmos: os comandos de repetição
+▶ veja o problema abaixo:
+problema 4.3: escreva um algoritmo que, dados um número inteiro positivo n, imprime na tela todos os números de 1 a n.
+considerações
+▶ é impossível para este problema adotar a mesma estratégia de solução
+▶ note que o número n é uma informação fornecida pelo usuário e
+▶ a quantidade de instruções depende diretamente do valor de n
+
+
+comando de repetição while
+importante!: os comandos de repetição são elementos fundamentais dentro de linguagens de programação, pois permitem a execução de um mesmo conjunto de instruções até que a condição não seja mais satisfeita.
+uma execução desse conjunto de instruções é chamada de iteração.
+na linguagem python, temos o comando de repetição while:
+
+▶ a sintaxe do comando while pode ser apresentada como:
+1       while < expressão condicional >:
+2           // bloco contendo instruções que
+3           // serão executadas repetidamente
+
+▶ só para relembrar, uma <expressão condicional> é uma expressão que retorna verdadeiro (true) ou falso (false)
+
+while — continuação
+▶ interpretação: enquanto a expressão condicional for verdadeira, as instruções do bloco são executadas
+▶ testa a expressão condicional antes de entrar no bloco, caso a expressão seja falsa, nenhuma instrução do bloco é executada
+▶ ao término da execução das instruções do bloco, testa-se novamente a expressão condicional
+▶ se a expressão for falsa, a repetição termina
+▶ podemos dizer que o while executa as instruções do bloco 0 ou mais vezes
+▶ na maioria dos algoritmos, alguma hora a expressão condicional deve se tornar falsa para que o comando de repetição não entre em execução infinita
+
+
+contador
+▶ muitos problemas usam um contador associado ao comando while
+▶ esses contadores são utilizados para controlar o número de iterações realizadas
+▶ veja abaixo um exemplo:
+
+1 contador = 1
+2
+3 while contador < limite:
+4
+5       # coloque aqui os comandos que
+6       # serao repetidos
+7       contador = contador + 1
+8       
+9 print("fim do while")
+

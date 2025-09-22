@@ -1,0 +1,1 @@
+#um número inteiro positivo n é denominado primo se existirem apenas dois divisores inteiros positivos dele: o 1 e o próprio n. escreva um algoritmo que recebe um inteiro n e verifica se n é primo ou não.

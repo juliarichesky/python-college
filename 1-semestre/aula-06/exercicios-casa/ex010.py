@@ -1,0 +1,1 @@
+#escreva um algoritmo que recebe um inteiro positivo n e calcula n! = 1 · 2 · 3 . . . · (n − 1) · n. por exemplo, se n = 6, então 6! = 1 · 2 · 3 · 4 · 5 · 6 = 720.

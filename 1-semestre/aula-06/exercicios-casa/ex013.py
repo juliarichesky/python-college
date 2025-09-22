@@ -1,0 +1,4 @@
+#vamos escrever um programa que consiste em um jogo de adivinhação. o jogo funciona do seguinte modo: sorteia-se um número inteiro aleatório entre 1 e 1000. sua tarefa é tentar adivinhar o número sorteado através de "chutes". a cada chute o programa deverá informar se o número "sorteado" é maior, menor ou igual ao número "chutado". quando o usuário acertar o número deverá ser impressa uma mensagem dizendo que ele acertou e a quantidade de chutes dados. para gerar números aleatórios entre 1 e 1000 use as seguintes instruções dentro do seu programa python:
+
+#import random
+#sorteado = random.randint(1, 1001)

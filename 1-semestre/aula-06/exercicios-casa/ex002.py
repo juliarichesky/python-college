@@ -1,0 +1,1 @@
+#dados o número n de alunos de uma turma de algoritmos e suas notas da primeira prova, determinar a média das notas dessa turma. considere que o usuário digite as informações corretamente.

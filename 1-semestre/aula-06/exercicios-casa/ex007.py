@@ -1,0 +1,1 @@
+#a conversão de graus fahrenheit para centígrados é obtida pela fórmula c = (5/9)(f − 32). escreva um algoritmo que calcule e escreva uma tabela de graus centígrados em função de graus fahrenheit que variem de 50 a 150 fahrenheit de 1 em 1.

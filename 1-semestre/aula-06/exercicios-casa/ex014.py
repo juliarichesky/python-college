@@ -1,0 +1,1 @@
+#dizemos que um inteiro positivo n é perfeito se for igual à soma de seus divisores positivos diferentes de n. exemplo: 6 é perfeito, pois 1 + 2 + 3 = 6. sua tarefa será a de escrever um algoritmo em python que, dado um inteiro positivo n, verificar se n é perfeito.
