@@ -1,0 +1,1 @@
+#usando o algoritmo anterior, desenvolva um programa que verifica se um CPF é válido, seu programa recebe um long com 11 dígitos representando um CPF e verifica se ele é válido de acordo com a regra de formação apresentada.

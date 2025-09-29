@@ -1,0 +1,1 @@
+#tente fazer a conversão no papel entre números decimais para hexadecimais e vice-versa.

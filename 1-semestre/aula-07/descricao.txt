@@ -1,0 +1,16 @@
+algoritmo cpf 
+
+
+
+
+numeros binarios
+
+
+
+binario para decimal  
+
+
+
+
+
+decimal para binario

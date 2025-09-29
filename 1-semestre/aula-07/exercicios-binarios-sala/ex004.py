@@ -1,0 +1,1 @@
+#escreva um algoritmo que recebe um número na base decimal e o converte para a base binária.

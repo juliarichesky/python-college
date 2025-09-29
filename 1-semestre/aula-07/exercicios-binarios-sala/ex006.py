@@ -1,0 +1,1 @@
+#escreva um algoritmo que transforma um número inteiro na sua representação hexadecimal.
