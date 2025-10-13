@@ -1,0 +1,35 @@
+tuplas: conjunto de dados imutáveis, nascem e morrem desse jeito. exemplo: meses do ano, eles nao mudam.
+
+listas: sao usadas assim como as tuplas, para representar um conjunto de informações.
+- sao oranizadas de forma linear e acessadas atraves de um indice.
+- listas nao sao como arrays em outras linguagens.
+
+append: final 
+insert: pode inserir no meio, no inicio, ele vai pra direita
+len: tamanho da lista, quantos elementos tem armazenados na minha lista.
+
+minhaLista = [
+    "Java"
+    "Logica"
+]
+
+
+minhaLista = []               | criando lista vazia
+minhaLista.append("Java")     | adiciona no fim
+minhaLista.append("Logica")   | idem
+
+print(minhaLista)             | imprimindo lista
+
+minhaLista.insert(0, "Banco") | inserindo na posicao 0
+print(minhaLista)             |
+
+meusNumeros = [1, 4, 9]       | criando lista com 3
+meusNumeros.append(16)        | adiciona no fim
+print(meusNumeros)            | imprimindo lista
+
+
+pop: remover elemento, e retornar
+
+acessar ou alterar um elemento da lista: indice
+
+seja ind um indice da lista entao 0 ≤ ind < len(frutas)
