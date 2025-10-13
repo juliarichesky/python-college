@@ -1,0 +1,6 @@
+Enunciado da CP2 de Python no PDF.
+
+Data de entrega: Dia 20 de setembro, segunda-feira, até o fim do dia.
+Como fazer: Pode ser até 3 pessoas e não precisa ser o trio do challenge (mas pode ser individual ou em dupla tb). Se algum grupo copiar todo outro, todos serão penalizados.
+
+OBSs: 0 é número par, mas para este exercício, ele não conta. Cair no 0 significa que ficará para a banca. Façam apenas os tipos de apostas descritos no exercício, que não são todos os tipos de apostas existentes.
