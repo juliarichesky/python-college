@@ -1,0 +1,1 @@
+#faça uma função em python que recebe uma lista de números reais e retorna true se a lista está ordenada em ordem crescente ou false se ela não está.

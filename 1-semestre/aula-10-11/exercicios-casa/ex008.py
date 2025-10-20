@@ -1,0 +1,1 @@
+#escreva uma função que recebe como parâmetro uma lista a de números inteiros e retorna uma outra lista contendo somente os números pares de a.

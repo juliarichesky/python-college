@@ -1,0 +1,1 @@
+#escreva uma função que recebe como parâmetro uma lista de números reais e um real x. sua função deverá contar e retornar a quantidade de elementos que são maiores ou iguais a x.

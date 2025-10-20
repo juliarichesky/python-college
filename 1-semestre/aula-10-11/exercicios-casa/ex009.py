@@ -1,0 +1,1 @@
+#escreva uma função que recebe como parâmetro duas listas listaA e listaB de números reais. ela deverá retornar uma terceira lista contendo todos os números da lista que também estão na listaB.
