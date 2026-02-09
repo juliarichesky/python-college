@@ -1,0 +1,60 @@
+listas
+
+=> representação de baralho
+c = [1, 'p'] ----> as de paus
+a = [12, 'e'] ---> 12 de espadas
+r = [6, 'c'] ----> 6 de copas
+d = [8, 'o'] ----> 8 de ouros
+s = [4, 'p'] ----> 4 de paus
+
+=> representação de dominós
+a = [0,0]
+b = [0,1]
+c = [0,2]
+d = [0,3]
+e = [0,45]
+f = [0,5]
+g = [0,6]
+h = [1,0]
+i = [1,1]
+j = [1,2]
+
+----------------x-----------------
+
+projeto jogo de baralho (listagem das funções)
+
+cria(tipo) -> list
+    tipo - normal, 2 maços, truco, tarot, etc......
+embaralha(list)
+distribuir(list, quantidade) -> list
+compra(list) -> list(carta)
+
+-------------------x---------------------
+
+o professor pediu para otimizar o codigo:
+
+def cria(tipo: str) -> list:
+    retorno = []
+    if tipo == 'Normal':
+        for valor in range(1, 13):
+            retorno.append([valor, 'C'])
+            retorno.append([valor, 'E'])
+            retorno.append([valor, 'P'])
+            retorno.append([valor, 'O'])
+
+    return retorno
+    
+    
+e o gemini deu esse:
+
+def cria(tipo: str) -> list:
+    if tipo != 'Normal':
+        return []
+    
+    naipes = ['C', 'E', 'P', 'O']
+    return [[valor, naipe] for valor in range(1, 14) for naipe in naipes]
+
+--------------------x----------------
+
+pop = remove algo da lista e vira a coisa
+shuffle = embaralhar
