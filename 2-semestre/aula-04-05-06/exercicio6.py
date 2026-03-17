@@ -29,4 +29,4 @@ if __name__ == "__main__":
 
     black_white(mat)
     for lin in mat:
-        print(lin)
+        print(lin) 
